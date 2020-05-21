@@ -11,3 +11,6 @@
 ## License
 
 This project is licensed under the [**MIT License**](https://github.com/leandro-matos/portfolios-web/blob/master/leandro-matos-cv/LICENSE) 
+
+
+### Deploy no heroku: https://leandro-matos-portfolio.herokuapp.com/
