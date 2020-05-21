@@ -8,13 +8,7 @@
 * Add Whatever you desire
 * Change analytics ID
 
-## Built With
-
-* [Bootstrap](https://getbootstrap.com/)
-* [Font Awesome](https://fontawesome.com/)
-* [Google Fonts](https://fonts.googleapis.com/)
-* [Google Analytics](https://analytics.google.com/)
 
 ## License
 
-This project is licensed under the [**MIT License**]() 
+This project is licensed under the [**MIT License**](https://github.com/leandro-matos/portfolios-web/blob/master/leandro-matos-cv/LICENSE) 
