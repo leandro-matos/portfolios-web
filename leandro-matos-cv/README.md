@@ -3,9 +3,9 @@
 <strong>One Page Website/Portfolio Template for Minimal Protfolio.</strong>
 
 ## Usage
-Edit the `index.hml` file - Content & Expertise
-Add Whatever you desire
-Change analytics ID
+* Edit the `index.hml` file - Content & Expertise
+* Add Whatever you desire
+* Change analytics ID
 
 
 ## License
